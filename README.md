@@ -1,7 +1,15 @@
-## Hi there 👋
+## Eike Daniel
+**`Web Developer`** **`Freelancer`**
+
+<p>--> Estou buscando oportunidades para aplicar e expandir meus conhecimentos;</p>
+<p>--> Atualmente graduando em Engenharia de Software.</p>
+ 
+### Linguagens & Ferramentas
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)]()
 
 <!--
-**eikedaniell/eikedaniell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
