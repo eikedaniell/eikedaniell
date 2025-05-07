@@ -1,8 +1,8 @@
 ## Eike Daniel
 **`Web Developer`** **`Freelancer`**
 
-<p>--> Estou buscando oportunidades para aplicar e expandir meus conhecimentos;</p>
-<p>--> Atualmente graduando em Engenharia de Software.</p>
+<p>→ Estou buscando oportunidades para aplicar e expandir meus conhecimentos;</p>
+<p>→ Atualmente graduando em Engenharia de Software.</p>
  
 ### Linguagens & Ferramentas
 
