@@ -1,5 +1,4 @@
 ## Eike Daniel
-**`Web Developer`** **`Freelancer`**
  
 ### Linguagens & Ferramentas
 
