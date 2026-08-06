@@ -2,7 +2,7 @@
  
 ### Linguagens & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python,conda)]()
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
