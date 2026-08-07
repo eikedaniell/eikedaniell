@@ -1,7 +1,7 @@
 ## Eike Daniel
 **`Web Developer`** **`Freelancer`**
 
-<p>--> Graduando em Engenharia de Software, com interesse em tecnologia e desenvolvimento contínuo, sempre buscando aprimorar conhecimentos e aplicar soluções que contribuam para o crescimento da empresa. Perfil proativo, comprometido e com facilidade para aprender novas tecnologias, resolver problemas e trabalhar em equipe.</p>
+<p>--> Graduando em Engenharia de Software, com interesse em tecnologia e desenvolvimento contínuo, sempre buscando aprimorar conhecimentos e aplicar soluções que contribuam para o crescimento da empresa. </p>
 
  
 ### Linguagens & Ferramentas
