@@ -1,8 +1,14 @@
 ## Eike Daniel
+**`Web Developer`** **`Freelancer`**
+
+<p>--> Graduando em Engenharia de Software, com interesse em tecnologia e desenvolvimento contínuo, sempre buscando aprimorar conhecimentos e aplicar soluções que contribuam para o crescimento da empresa.</p>
+
+<p>--> Perfil proativo, comprometido e com facilidade para aprender novas tecnologias, resolver problemas e trabalhar em equipe.</p>
+
  
 ### Linguagens & Ferramentas
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java,python)]()
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,java)]()
 
 <!--
 **eikesteiner/eikesteiner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
